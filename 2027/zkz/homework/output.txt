@@ -1,0 +1,17 @@
+===== 系统时间 =====
+Sun Oct 18 01:50:19 PM CST 2026
+
+===== 最近使用的 10 条命令 =====
+cd 2027/zkz/
+mkdir notes
+cd notes/
+cd ..
+mkdir homework
+cd note
+cd notes/
+cd ..
+git remote rename origin upstream
+git remote -v
+
+===== 笔记字数 =====
+笔记文件不存在: /home/zkz/missing-semester/2027/zkz/homework/../notes/lesson01-linux-vim-shell-git.md
