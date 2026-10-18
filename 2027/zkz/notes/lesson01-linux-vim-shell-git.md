@@ -98,14 +98,13 @@
 
 ### 2. 分支与提交命令
 
-| 命令                               | 作用                         |
-| ---------------------------------- | ---------------------------- |
-| `git switch -c feature/hello`      | 创建并切换到功能分支         |
-| `git add hello.txt`                | 暂存指定文件                 |
-| `git commit -m "Add greeting"`     | 记录一次本地提交             |
-| `git push -u origin feature/hello` | 推送到远程并建立跟踪关系     |
-| `git switch main`                  | 切回主分支                   |
-| `git pull`                         | 获取并整合当前分支的远程更新 |
+| 命令                           | 作用                         |
+| ------------------------------ | ---------------------------- |
+| `git switch -c feature/hello`  | 创建并切换到功能分支         |
+| `git add hello.txt`            | 暂存指定文件                 |
+| `git commit -m "Add greeting"` | 记录一次本地提交             |
+| `git push -u origin dev-zkz`   | 推送到远程并建立跟踪关系     |
+| `git switch main`              | 切回主分支                   |
+| `git pull`                     | 获取并整合当前分支的远程更新 |
 
-![Screenshot from 2026-10-18 12-55-40](/home/zkz/Pictures/Screenshots/Screenshot from 2026-10-18 12-55-40.png)
-
+![Screenshot from 2026-10-18 12-55-40](/home/zkz/missing-semester/2027/zkz/notes/Screenshot from 2026-10-18 12-55-40.png)
