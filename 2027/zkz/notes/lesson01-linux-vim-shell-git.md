@@ -107,4 +107,9 @@
 | `git switch main`              | 切回主分支                   |
 | `git pull`                     | 获取并整合当前分支的远程更新 |
 
-![Screenshot from 2026-10-18 12-55-40](/home/zkz/missing-semester/2027/zkz/notes/Screenshot from 2026-10-18 12-55-40.png)
+![Screenshot from 2026-10-18 12-55-40](/home/zkz/missing-semester/2027/zkz/notes/picture/Screenshot from 2026-10-18 12-55-40.png)
+
+`git fetch upstream`  同步上游仓库
+
+`git merge upstream/master`  合并分支
+
